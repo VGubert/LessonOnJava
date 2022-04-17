@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/P0061_Layouts" />
+            <option value="$PROJECT_DIR$/P0072_LayoutProp" />
+            <option value="$PROJECT_DIR$/P0081_ViewById" />
+            <option value="$PROJECT_DIR$/P0091_OnClickButtons" />
+            <option value="$PROJECT_DIR$/P0101_Listener" />
+            <option value="$PROJECT_DIR$/P0102_ActivityListener" />
+            <option value="$PROJECT_DIR$/P0111_ResValues" />
+            <option value="$PROJECT_DIR$/P0121_LogAndMess" />
+            <option value="$PROJECT_DIR$/P0131_AndroidContextMenu" />
+            <option value="$PROJECT_DIR$/P0141_MenuAdv" />
+            <option value="$PROJECT_DIR$/P0151_ContextMenu" />
+            <option value="$PROJECT_DIR$/P0161_DynamicLayout" />
+            <option value="$PROJECT_DIR$/P0171_DynamicLayout2" />
+            <option value="$PROJECT_DIR$/P0181_DynamicLayout3" />
+            <option value="$PROJECT_DIR$/P0191_SimpleCalculator" />
+            <option value="$PROJECT_DIR$/P0201_SimpleAnimation" />
+            <option value="$PROJECT_DIR$/P0231_OneActivityState" />
+            <option value="$PROJECT_DIR$/P0241_TwoActivityState" />
+            <option value="$PROJECT_DIR$/P0261_IntentFilter" />
+            <option value="$PROJECT_DIR$/P0271_GetIntentAction" />
+            <option value="$PROJECT_DIR$/P0281_IntentExtras" />
+            <option value="$PROJECT_DIR$/P0291_SimpleActivityResult" />
+            <option value="$PROJECT_DIR$/P0301_ActivityResult" />
+            <option value="$PROJECT_DIR$/P0311_SimpleIntents" />
+            <option value="$PROJECT_DIR$/P0321_SimpleBrowser" />
+            <option value="$PROJECT_DIR$/P0331_SharedPreferences" />
+            <option value="$PROJECT_DIR$/P0341_SimpleSQLite" />
+            <option value="$PROJECT_DIR$/P0341_SimpleSQLite2" />
+            <option value="$PROJECT_DIR$/P0361_SQLiteQuery" />
+            <option value="$PROJECT_DIR$/P0371_SQLiteInnerJoin" />
+            <option value="$PROJECT_DIR$/P0381_SQLiteTransaction" />
+            <option value="$PROJECT_DIR$/P0391_SQLiteOnUpgradeDB" />
+            <option value="$PROJECT_DIR$/P0401_LayoutInflater" />
+            <option value="$PROJECT_DIR$/P0411_LayoutInflaterList" />
+            <option value="$PROJECT_DIR$/P0421_SimpleList" />
+            <option value="$PROJECT_DIR$/P0431_SimpleListChoice" />
+            <option value="$PROJECT_DIR$/P0441_SimpleListEvents" />
+            <option value="$PROJECT_DIR$/P0451_ExpandableList" />
+            <option value="$PROJECT_DIR$/P0461_ExpandableListEvents" />
+            <option value="$PROJECT_DIR$/P0481_SimpleAdapter" />
+            <option value="$PROJECT_DIR$/P0491_SimpleAdapterCustom1" />
+            <option value="$PROJECT_DIR$/P0501_SimpleAdapterCustom2" />
+            <option value="$PROJECT_DIR$/P0511_SimpleAdapterData" />
+            <option value="$PROJECT_DIR$/P0521_SimpleCursorAdapter" />
+            <option value="$PROJECT_DIR$/P0531_SimpleCursorTreeAdapter" />
+            <option value="$PROJECT_DIR$/P0541_CustomAdapter" />
+            <option value="$PROJECT_DIR$/P0551_HeaderFooter" />
+            <option value="$PROJECT_DIR$/P0561_Spinner" />
+            <option value="$PROJECT_DIR$/P0571_GridView" />
+            <option value="$PROJECT_DIR$/P0581_TimePickerDialog" />
+            <option value="$PROJECT_DIR$/P0591_DatePickerDialog" />
+            <option value="$PROJECT_DIR$/P0601_AlertDialogSimple" />
+            <option value="$PROJECT_DIR$/P0611_AlertDialogPrepare" />
+            <option value="$PROJECT_DIR$/P0621_AlertDialogItems" />
+            <option value="$PROJECT_DIR$/P0631_AlertDialogItemsSingle" />
+            <option value="$PROJECT_DIR$/P0641_AlertDialogItemsMulti" />
+            <option value="$PROJECT_DIR$/P0651_AlertDialogCustom" />
+            <option value="$PROJECT_DIR$/P0661_AlertDialogOperations" />
+            <option value="$PROJECT_DIR$/P0671_ProgressDialog" />
+            <option value="$PROJECT_DIR$/P0681_Parcel" />
+            <option value="$PROJECT_DIR$/P0691_Parcelable" />
+            <option value="$PROJECT_DIR$/P0701_SaveInstanceState" />
+            <option value="$PROJECT_DIR$/P0711_PreferencesSimple" />
+            <option value="$PROJECT_DIR$/P0751_Files" />
+            <option value="$PROJECT_DIR$/P0761_Tab" />
+            <option value="$PROJECT_DIR$/P0771_TabIntent" />
+            <option value="$PROJECT_DIR$/P0781_TabContentFactory" />
+            <option value="$PROJECT_DIR$/P0791_ XmlPullParser" />
+            <option value="$PROJECT_DIR$/P0801_Handler" />
+            <option value="$PROJECT_DIR$/P0811_ HandlerSimpleMessage" />
+            <option value="$PROJECT_DIR$/P0821_HandlerAdvMessage" />
+            <option value="$PROJECT_DIR$/P0831_HandlerMessageManage" />
+            <option value="$PROJECT_DIR$/P0841_HandlerRunnable" />
+            <option value="$PROJECT_DIR$/P0851_RunnableUIThread" />
+            <option value="$PROJECT_DIR$/P0861_AsyncTask" />
+            <option value="$PROJECT_DIR$/P0871_AsyncTaskParams" />
+            <option value="$PROJECT_DIR$/P0881_AsyncTaskResult" />
+            <option value="$PROJECT_DIR$/P0891_AsyncTaskCancel" />
+            <option value="$PROJECT_DIR$/P0901_AsyncTaskStatus" />
+            <option value="$PROJECT_DIR$/P0911_AsyncTaskRotate" />
+            <option value="$PROJECT_DIR$/P0921_ServiceSimple" />
+            <option value="$PROJECT_DIR$/P0931_ServiceStop" />
+            <option value="$PROJECT_DIR$/P0941_ServiceKillClient" />
+            <option value="$PROJECT_DIR$/P0951_ServiceBackPendingIntent" />
+            <option value="$PROJECT_DIR$/P0961_ServiceBackBroadcast" />
+            <option value="$PROJECT_DIR$/P0971_ServiceBindClient" />
+            <option value="$PROJECT_DIR$/P0972_ServiceBindServer" />
+            <option value="$PROJECT_DIR$/P0981_ServiceBindingLocal" />
+            <option value="$PROJECT_DIR$/P1011_ContentProvider" />
+            <option value="$PROJECT_DIR$/P1012_ContProvClient" />
+            <option value="$PROJECT_DIR$/P1021_Touch" />
+            <option value="$PROJECT_DIR$/P1031_MultiTouch" />
+            <option value="$PROJECT_DIR$/P1041_FragmentLifecycle" />
+            <option value="$PROJECT_DIR$/P1051_FragmentDynamic" />
+            <option value="$PROJECT_DIR$/P1061_FragmentActivity" />
+            <option value="$PROJECT_DIR$/P1101_DialogFragment" />
+            <option value="$PROJECT_DIR$/P1121_DynamicActionBar" />
+            <option value="$PROJECT_DIR$/P1131_ActionMode" />
+            <option value="$PROJECT_DIR$/P1261_MediaPlayer" />
+            <option value="$PROJECT_DIR$/P1271_SoundPool" />
+            <option value="$PROJECT_DIR$/P1281_AudioFocus" />
+            <option value="$PROJECT_DIR$/P1291_MediaRecorderAudio" />
+            <option value="$PROJECT_DIR$/P1301_AudioRecorder" />
+            <option value="$PROJECT_DIR$/P1311_CameraIntent" />
+            <option value="$PROJECT_DIR$/P1321_CameraScreen" />
+            <option value="$PROJECT_DIR$/P1331_CameraRecord" />
+            <option value="$PROJECT_DIR$/P1341_CameraFeatures" />
+            <option value="$PROJECT_DIR$/P1351_Loader" />
+            <option value="$PROJECT_DIR$/P1361_CursorLoader" />
+            <option value="$PROJECT_DIR$/P1371_Sensors" />
+            <option value="$PROJECT_DIR$/P1372_Acceleration" />
+            <option value="$PROJECT_DIR$/P1373_Orientation" />
+            <option value="$PROJECT_DIR$/P1411_CanvasView" />
+            <option value="$PROJECT_DIR$/P1421_DrawingFigure" />
+            <option value="$PROJECT_DIR$/P1431_DrawingPath" />
+            <option value="$PROJECT_DIR$/P1441_MatrixTransform" />
+            <option value="$PROJECT_DIR$/P1451_MatrixTransform2" />
+            <option value="$PROJECT_DIR$/P1461_CanvasTransform" />
+            <option value="$PROJECT_DIR$/P1471_Region" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/firstproject" />
+            <option value="$PROJECT_DIR$/p0041basicviews" />
+            <option value="$PROJECT_DIR$/p0051layoutfiles" />
+            <option value="$PROJECT_DIR$/p0211twoactivity" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
